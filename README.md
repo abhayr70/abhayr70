@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Verma</h1>
 <h3 align="center">Competitive Programmer and Frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritverma6&label=Profile%20views&color=0e75b6&style=flat" alt="ritverma6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritverma6&label=Profile%20views&color=0e75b6&style=flat" alt="abhayr70" /> </p>
 
 - 🌱 I’m currently learning **Django, React**
 
